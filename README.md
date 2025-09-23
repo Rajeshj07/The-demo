@@ -1,3 +1,4 @@
 # The-demo
 This is my first Git repository
-<br>Author - Rajesh Jadhva
+<br>
+Author - Rajesh (Raju)
