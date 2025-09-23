@@ -7,6 +7,6 @@ C++ Hello World
 #include <studio.h>
 
 int main() {
-<br>   printf("Hello World");
-<br>   return 0;
+<br>     printf("Hello World");
+<br>     return 0;
 <br>}
