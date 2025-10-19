@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    printf("This is my first C++ demo!\n");
+    printf("Hello, World!\n");
     return 0;
 }
