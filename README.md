@@ -1,4 +1,4 @@
 # The-demo
 This is my first Git repository
 <br>
-Author - Rajesh Jadhav
+Creator - Rajesh Jadhav
